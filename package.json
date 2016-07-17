@@ -1,0 +1,18 @@
+{
+    "name": "angular-holderjs",
+    "version": "1.1.0",
+    "description": "An AngularJS directive for HolderJS.",
+    "keywords": [
+      "angular",
+      "angularjs",
+      "ng",
+      "holder",
+      "holderjs"
+    ],
+    "repository": "https://github.com/joshvillbrandt/ng-holder.git",
+    "homepage": "https://github.com/joshvillbrandt/ng-holder",
+    "author": "Josh Villbrandt <josh@javconcepts.com>",
+    "contributors":["Adam Griffiths <aogriffiths@gmail.com>"],
+    "license": "MIT",
+    "main": "src/holder.js"
+}
